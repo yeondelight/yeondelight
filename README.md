@@ -97,7 +97,7 @@
     - HTML, CSS, Javascript를 이용한 웹 홈페이지 제작
     - 직접 개발한 Deep Rank 알고리즘을 활용하여 영상 검색의 정확도 향상
     <br>
-  - **🔧PM ** 및 **⚙BACKEND** 담당
+  - **🔧PM 및 ⚙BACKEND** 담당
     - Github을 이용하여 프로젝트 전반 관리
     - Django, Flask를 이용하여 시스템 뼈대 구현
     - OpenCV, ffmpeg 등을 활용해 풍부한 메타데이터 생성 → API화
