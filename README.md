@@ -15,7 +15,7 @@
 
 <h2>🏆 Awards </h2>
 
-<b> ✔ <a href = "https://www.github.com/HSTACK-2022/TimestampFinder">Timestamp Finder</a></b>
+<b> ✔ <a href = "https://www.github.com/HSTACK-2022/VideoSearcher">Timestamp Finder</a></b>
 
 	🥈 제 17회 한성공학경진대회 작품부문 금상
 	🥉 제 17회 한성공학경진대회 특허부문 동상
