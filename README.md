@@ -15,14 +15,14 @@
 
 <h2>🏆 Awards </h2>
 
-<b> ✔ <a href = "github.com/yeondelight/TimestampFinder">Timestamp Finder</a></b>
+<b> ✔ <a href = "https://www.github.com/HSTACK-2022/TimestampFinder">Timestamp Finder</a></b>
 
 	🥈 제 17회 한성공학경진대회 작품부문 금상
 	🥉 제 17회 한성공학경진대회 특허부문 동상
 	
 <br>
 
-<b> ✔ <a href="github.com/yeondelight/VideoMetaSystem">VMeta</a></b>
+<b> ✔ <a href="https://github.com/HSTACK-2022/VideoMetaSystem">VMeta</a></b>
 
 	🥇 제 16회 공개SW 개발자대회 학생부문 최우수상 (과학기술정보통신부 장관상)
 	🥇 2022 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 모바일부문 최우수상
