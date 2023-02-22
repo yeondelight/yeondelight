@@ -6,6 +6,13 @@
 > 철저한 서비스 분석으로 사용자에게 **한 눈에 읽을** 수 있는 서비스를 제공하고, <br/>
 > 동료에게는 소통을 통해 **정확히 이해**하는 개발자가 되겠습니다.
 
+<br/>
+<br/>
+
+# 👩‍💻 *My Stats*
+
+<img src="https://github-readme-stats.vercel.app/api?username=yeondelight&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" width="400px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydelight" width="400px">
 
 <br/>
 <br/>
@@ -129,3 +136,10 @@
     <br/>
   </div>
   </details>  
+
+
+<br/>
+<br/>
+
+---
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeondelight&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
