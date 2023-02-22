@@ -1,58 +1,60 @@
+# 읽기 쉬운 개발자, 김다연 입니다.
 
-> 안녕하세요! <br>
-> 읽기 쉬운 개발자, 김다연입니다😊
+### ***Legible? Level up!***
 
-<br>
-<br>
+> **현 상태를 정확히 아는 것은 발전의 첫 걸음입니다.** <br/>
+> 철저한 서비스 분석으로 사용자에게 **한 눈에 읽을** 수 있는 서비스를 제공하고, <br/>
+> 동료에게는 소통을 통해 **정확히 이해**하는 개발자가 되겠습니다.
 
-<h2>🎓 Educations </h2>
-
-✔ [2019.03-2023.02] 한성대학교 컴퓨터공학부 학사
-
-<br>
-<br>
-<br>
-
-<h2>🏆 Awards </h2>
-
-<b> ✔ <a href = "https://www.github.com/HSTACK-2022/VideoSearcher">Timestamp Finder</a></b>
-
-	🥈 제 17회 한성공학경진대회 작품부문 금상
-	🥉 제 17회 한성공학경진대회 특허부문 동상
-	
-<br>
-
-<b> ✔ <a href="https://github.com/HSTACK-2022/VideoMetaSystem">VMeta</a></b>
-
-	🥇 제 16회 공개SW 개발자대회 학생부문 최우수상 (과학기술정보통신부 장관상)
-	🥇 2022 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 모바일부문 최우수상
-	🥈 제 6회 한성대학교 창의 융합 성과 경진대회 (C&C Festival) 금상
-	🥇 제 18회 한성공학경진대회 작품부문 대상
-	🥇 제 18회 한성공학경진대회 특허부문 금상
-
-<br>
-<br>
-<br>
-
-<h2>👩‍💻 My Stats </h2>
-
-<b> ✔ Github Hits </b> <br/>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeondelight&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br/>
-<b> ✔ Stats</b>
+<br/>
 
-| Github | BOJ |
+# 🔎 *Profile*
+
+
+### 🏫 Education
+
+- [2016. 03 ~ 2019. 02]   **여의도여자고등학교 (졸업)**
+- [2019. 03 ~ 2023. 02]   **한성대학교 컴퓨터공학부 학사 (졸업)** (평균 학점 **4.38** / 4.5)
+    
+<br/>
+
+### 📜 Certification
+
+- [2022. 06. 17] **정보처리기사**
+- [2022. 08. 31] **TOEIC 870**
+- [2022. 09. 03] **OPIc IM1**
+
+<br/>
+
+### 🏆 Awards
+
+- 🥈 [2021. 09. 24] 제 17회 한성공학경진대회 **작품부문 금상**
+- 🥉 [2021. 09. 24] 제 17회 한성공학경진대회 **특허부문 동상**
+- 🥇 [2022. 06. 03] '22 한성대학교 컴퓨터공학부 캡스톤디자인 **작품 발표회 최우수상**
+- 🥇 [2022. 09. 23] 제 18회 한성공학경진대회 **작품부문 대상**
+- 🥇 [2022. 09. 23] 제 18회 한성공학경진대회 **특허부문 금상**
+- 🥈 [2022. 10. 07] 2022학년도 1학기 한성대학교 창의융합성과 경진대회 **(C&C Festival) 금상**
+- 🥇 [2022. 12. 06] **제 16회 공개SW 개발자대회 학생부문 대상 (과학기술정보통신부 장관상)**
+
+<br>
+<br>
+
+
+# ⚒️ *Skills*
+
+|  |  |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=yeondelight&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" height="200px"> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydelight" height="200px"> |
+| **비교적 능숙해요** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a> |
+| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a> |
+| **사용해본 적 있어요** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a> |
 
-<br>
-<br>
-<br>
+<br/>
+<br/>
 
-<h2> 💻  Projects (Repos) </h2>
 
+# 📚  *Projects*
 
 <b> 👬 Team Project </b> 
 
@@ -127,36 +129,3 @@
     <br/>
   </div>
   </details>  
-
-<br>
-<br>
-<br>
-
-<h2> 📚 Tech Stack </h2>
-
-<b> ✔ Tools </b><br>
-
-- I usually use
-	<p>
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp	
-	</p>
-<br/>
-
-- I used at least once 
-	<p>
-	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp<br/>
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>&nbsp 
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>&nbsp 
-	</p>
-
-
