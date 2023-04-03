@@ -110,7 +110,8 @@
     - MySQL로 메타데이터 관리가 가능한 Flask 서버
     - Tensorflow의 Keras와 OpenCV, ffmpeg 등 다양한 기술을 활용해 풍부한 메타데이터를 생성
     - HTML, CSS, Javascript를 이용한 웹 홈페이지 제작
-    - 직접 개발한 Deep Rank 알고리즘을 활용하여 영상 검색의 정확도 향상
+    - 직접 고안한 VMeta Ranking 알고리즘으로 사용자의 검색 의도에 가장 적합한 영상 추천
+    - 메타데이터의 정보와 비율, 성능, 검색 빈도수 등 데이터 현황을 파악하는 모니터링 시스템
     <br>
   - **🔧PM 및 ⚙BACKEND** 담당
     - Github을 이용한 프로젝트 관리
