@@ -104,7 +104,7 @@
     Video Meta System (이하 VMeta)는 영상의 메타데이터를 자동으로 구축해
     사용자에게 세밀하고 용이한 검색을 가능하게 하는 시스템입니다.
 
-  - 개발 기간 : 2022.01 ~ 2021.11
+  - 개발 기간 : 2022.01 ~ 2022.11
     <br>
   - 핵심 기술
     - MySQL로 메타데이터 관리가 가능한 Flask 서버
@@ -113,9 +113,11 @@
     - 직접 개발한 Deep Rank 알고리즘을 활용하여 영상 검색의 정확도 향상
     <br>
   - **🔧PM 및 ⚙BACKEND** 담당
-    - Github을 이용하여 프로젝트 전반 관리
-    - Django, Flask를 이용하여 시스템 뼈대 구현
-    - OpenCV, ffmpeg 등을 활용해 풍부한 메타데이터 생성 → API화
+    - Github을 이용한 프로젝트 관리
+    - Django, Flask기반 Backend 서버 개발
+    - OpenCV, ffmpeg, ETRI Open API를 이용한 영상 메타데이터 자동 추출 API 구현
+    - 메타데이터 기반의 영상 검색 알고리즘(VMeta Ranking Algorithm) 설계 및 구현
+    - 영상 메타데이터를 저장하는 MySQL 기반의 DB 설계 및 구축
     <br/>
     <br/>
   </div>
