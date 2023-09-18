@@ -1,19 +1,9 @@
-# 끝이 없는 개발자, 김다연 입니다.
-
-### 개발자에게 중요한 것은 ***끝없는 학습 입니다***.
-
-> IT기술은 빠르게 변화하고 발전합니다. <br/>
-> 끝 없이 학습하기 위해서는 현 상태를 정확하게 파악하고, <br/>
-> 앞으로 나아갈 방향을 계획하는 것이 선행되어야 합니다. <br/>
-> 저는 약 2년의 팀프로젝트 경험을 통해 이를 키웠습니다. <br/>
-> 이 경험을 바탕으로, 사용자가 쉽게 이용할 수 있는 서비스에 대해<br/>
-> 끊임없이 고민하며 성장하고 싶습니다.
-
+## Hi, I'm Dayeon Kim
 
 <br/>
 <br/>
 
-# 👩‍💻 *My Stats*
+# 👩‍💻 *Stats*
 
 <img src="https://github-readme-stats.vercel.app/api?username=yeondelight&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" width="400px">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ydelight" width="400px">
@@ -26,19 +16,9 @@
 
 ### 🏫 Timeline
 
-- [2016. 03 ~ 2019. 02]   **여의도여자고등학교 (졸업)**
-- [2019. 03 ~ 2023. 02]   **한성대학교 컴퓨터공학부 학사 (졸업)** (평균 학점 **4.38** / 4.5)
-- [2023. 08 ~ ]   **삼성SDS SW Engineer** (dayeon17.kim@samsung.com)
+- [2019. 03 ~ 2023. 02]   **B.Sc. in Computer Engineering, Hansung Univ.**
+- [2023. 08 ~ ]   **Samsung SDS Software Engineer**
     
-<br/>
-
-### 📜 Certification
-
-- [2022. 06. 17] **정보처리기사**
-- [2022. 08. 31] **TOEIC 870**
-- [2022. 09. 03] **OPIc IM1**
-- [2023. 08. 07] **JLPT N3**
-
 <br/>
 
 ### 🏆 Awards
@@ -61,17 +41,15 @@
 
 |  |  |
 | --- | --- |
-| **비교적 능숙해요** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a> |
-| **문서를 보고 기능을 구현해요** | <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a> |
-| **사용해본 적 있어요** | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a> <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a> |
-
+| **Used as Main** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a> |
+| **Used at least Once** | <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a> |
 <br/>
 <br/>
 
 
 # 📚  *Projects*
 
-<b> 👬 Team Project </b> 
+<b> 👬 Team Project ([@HSTACK-2022](https://github.com/HSTACK-2022)) </b> 
 
   <details>
   <summary><b>검색 가능한 비디오 플레이어 (Video Searcher / Timestamp Finder)</b></summary>
