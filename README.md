@@ -32,6 +32,7 @@
 - 🥇 [2022. 12. 06] **제 16회 공개SW 개발자대회 학생부문 대상 (과학기술정보통신부 장관상)**
 - 🏆 [2023. 01. 31] 한성대학교 총장 표창장
 - 🏆 [2023. 02. 17] 한성대학교 학부 및 트랙 추천 공로상
+- 🏆 [2023. 11. 16] **21st NEA OSS Promotion forum 2023 Outstanding Technologies Project Award**
 
 <br>
 <br>
